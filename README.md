@@ -1,5 +1,5 @@
 # TossBox
 
-### bip32
-### Merkel Trees
-### Consenses Algorithm
+### * bip32
+### * Merkel Trees
+### * Consenses Algorithm
