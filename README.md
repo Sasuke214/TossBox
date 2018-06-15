@@ -4,4 +4,4 @@
 ### * Merkel Trees
 ### * Consenses Algorithm
 
-http://lopp.net/bitcoin.html]
+http://lopp.net/bitcoin.html
