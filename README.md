@@ -5,3 +5,5 @@
 ### * Consenses Algorithm
 
 http://lopp.net/bitcoin.html
+
+### * ECMAScript 6 modules
