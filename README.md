@@ -15,18 +15,18 @@ http://lopp.net/bitcoin.html
 
 ## TTS and Speech Recognition
 
-## *Deep Voice 3 and techotron 
+#### *Deep Voice 3 and techotron 
 
-## *Librosa for speech and text 
+#### *Librosa for speech and text 
 
-## *Text to speech possible for JS 
+#### *Text to speech possible for JS 
 
-## *char2way_pytorch
-## *char2wav end-to-end speech synthesis
-## *ngrok 
-## *parrot
-## *lyrebird.ai
-## *pix2pix
-## *face2face
+#### *char2way_pytorch
+#### *char2wav end-to-end speech synthesis
+#### *ngrok 
+#### *parrot
+#### *lyrebird.ai
+#### *pix2pix
+#### *face2face
 
-## *Tensorflow.js  
+#### *Tensorflow.js  
